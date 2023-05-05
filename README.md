@@ -6,4 +6,4 @@ Additionally add tags to make your Intentions more clear.
 
 If you need more help or want to suggest something join our Discord https://discord.gg/u8QkqBmzE2
 
-Launch on Google Play in the next days, if you're interested check our site for updates.
+Google Play: https://play.google.com/store/apps/details?id=com.dtplatforms.floatinglauncher
